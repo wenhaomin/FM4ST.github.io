@@ -368,6 +368,16 @@ header_3 .intro-text .intro-heading {
     margin-bottom: 20px
 }
 
+.header-info {
+  font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+  text-align: center;
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
  
 @media (min-width:500px) {
     header_3 .intro-text {
